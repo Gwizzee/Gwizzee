@@ -5,7 +5,7 @@ I'm passionate about all things digital with a focus on:
 * **E-commerce:** Building and optimising web stores.
 * **SEO:** Helping businesses rank higher in search results, increase organic traffic and optimising content.
 * **Data Analytics:** deep diving into data to gain valuable insights to make informed business decisions.
-* **Digital Forensics:** Investigating cybercrime and recovering digital evidence.
+* **Digital Forensics:** Recovering digital data.
 * **Information Security:** Protecting sensitive data and systems from threats.
 
 **Here's what you can expect to find in my repositories:**
